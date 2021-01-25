@@ -1,0 +1,1 @@
+This repositroy contains the bash script used in the analyais of early reponse transcriptional regulatory networks in response to the potato virus X (PVX) in potato (<I>Solanum tuberosum</I> Genotype Russet Norkotah)
